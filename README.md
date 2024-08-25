@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @janeyears;
 - 👀 I’m interested in web development;
-- 🌱 I’m currently learning JS;
+- 🐝 Currently I'm a Hive Helsinki student;
 - 📫 How to reach me: tg @janeyears
