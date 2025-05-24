@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Jane!
 
-I'm a curious and motivated **novice developer** currently studying at **Hive Helsinki**. I enjoy exploring the logic of programming and the creativity of building user-friendly applications.
+I'm a curious and motivated **novice developer** currently studying at **Hive Helsinki** (42 Network) coding school. I enjoy exploring the logic of programming and the creativity of building user-friendly applications.
 
 ### 🌱 What I’m learning
 
