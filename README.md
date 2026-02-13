@@ -11,7 +11,7 @@ As part of the Hive Helsinki curriculum, I’m actively working with:
 
 I'm also growing my front-end skills:
 - Strengthening my **HTML** and **CSS** for responsive and accessible design
-- Learning **JavaScript** to bring interactivity to the web
+- Learning **JavaScript** and **TypeScript** to bring interactivity to the web
 - Getting started with **React** to build dynamic, component-based UIs
 
 ### 📫 Let’s connect!
